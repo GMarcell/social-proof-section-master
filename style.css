@@ -43,6 +43,11 @@ p {
     margin: 20px;
 }
 
+.profilepic {
+    display: flex;
+}
+
 #pic {
     border-radius: 50px;
+    margin: 20px;
 }
