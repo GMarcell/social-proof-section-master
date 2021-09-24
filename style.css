@@ -41,13 +41,41 @@ p {
     background-color: hsl(300, 43%, 22%);
     border-radius: 10px;
     margin: 20px;
+    padding: 20px;
 }
 
 .profilepic {
     display: flex;
+    justify-content: center;
+}
+
+.name {
+    margin: auto auto auto 10px;
+    opacity: 0.9;
+}
+
+.name h2 {
+    font-size: 15px;
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+}
+
+#name {
+    font-size: 15px;
+    color: hsl(333, 80%, 67%);
+    font-weight: 500;
+    text-align: left;
 }
 
 #pic {
     border-radius: 50px;
     margin: 20px;
+    width: 20%;
+}
+
+.comments p {
+    text-align: left;
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    opacity: 0.9;
 }
