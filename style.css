@@ -83,6 +83,12 @@ h3 {
     opacity: 0.9;
 }
 
+.rated {
+    font-size: 15px;
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+}
+
 .name h2 {
     font-size: 15px;
     color: hsl(0, 0%, 100%);
