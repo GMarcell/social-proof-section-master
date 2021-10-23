@@ -89,14 +89,14 @@ h3 {
     text-align: left;
 }
 
-#name {
+.name-label {
     font-size: 15px;
     color: hsl(333, 80%, 67%);
     font-weight: 500;
     text-align: left;
 }
 
-#pic {
+.pic {
     border-radius: 50px;
     margin: 20px;
     width: 60px;
